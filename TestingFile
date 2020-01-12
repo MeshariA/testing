@@ -1,0 +1,12 @@
+  
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hi this is Meshari's Repo"
+    }
+  ],
+  "profile": {
+    "name": "Meshari"
+  }
+}
